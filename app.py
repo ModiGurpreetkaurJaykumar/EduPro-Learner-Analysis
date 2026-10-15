@@ -28,7 +28,7 @@ st.write(
 
 @st.cache_data
 def load_data():
-    data = pd.read_csv("data/edupro_dashboard_data.csv")
+    data = pd.read_csv("Data/edupro_dashboard_data.csv")
 
     data["TransactionDate"] = pd.to_datetime(
         data["TransactionDate"], errors="coerce"
