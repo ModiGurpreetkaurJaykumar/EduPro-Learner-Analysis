@@ -307,7 +307,7 @@ These applications are intended to support planning. Observed associations do no
 
 The interactive dashboard is built using **Streamlit** and can be published through Streamlit Community Cloud.
 
-**Live Dashboard:** To be added after deployment.
+**Live Dashboard:** https://edupro-learner-analysis-gk.streamlit.app/
 
 ---
 
@@ -315,7 +315,7 @@ The interactive dashboard is built using **Streamlit** and can be published thro
 
 The GitHub repository will contain the project source code, analysis notebook, dataset files where appropriate, dependencies, and documentation.
 
-**Repository URL:** To be added after the GitHub repository is created.
+**Repository URL:** https://github.com/ModiGurpreetkaurJaykumar/EduPro-Learner-Analysis
 
 ---
 
